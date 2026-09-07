@@ -7,7 +7,9 @@
 
 ## 🔍 About Me
 
-Data Analyst with hands on experience applying advanced analytics using Excel, Power BI, Tableau, SQL, Alteryx and Python with a strong foundation in transforming data into actionable insights. Proven academic and project experience in gathering, cleaning, analyzing, and visualizing data to support data-driven decisions. Known for strong analytical skills, clear communication, and a deep curiosity for uncovering insights that add value.
+Data Analyst with hands on experience applying advanced analytics using Excel, Power BI, Tableau, SQL, Alteryx and Python with a strong foundation in transforming data into actionable insights. . Worked with the EY GDS Assurance team, supporting financial reporting, audit analytics, and risk evaluation through data 
+automation and visualization. Experienced in handling large ERP datasets and transforming complex financial data into insights that 
+enhance compliance, accuracy, and decision making.
 
 **🔧 Skills:**
 
