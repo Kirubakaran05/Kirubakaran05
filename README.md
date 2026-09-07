@@ -32,39 +32,39 @@ Bank Loan Analysis using Python to explore loan performance, funding trends, bor
 
 ---
 
-### Crime Against Women Analysis 2001-2014 (India):
+### Zomato Bangalore Restaurant EDA:
 
-Bank Loan Analysis using Python to explore loan performance, funding trends, borrower characteristics, and credit risk through EDA, KPI analysis, and data visualization.
+An exploratory data analysis (EDA) and visualization project on 50,000+ Zomato Bangalore restaurants in Python to uncover insights on ratings, pricing, locations, and cuisines.
 
-* **Tools Used:** Excel, MySQL, Power BI
-* **Project Link:** [Crime Against Women Analysis 2001-2014 (India)](#)
-
----
-
-### Credit_Card_Financial_Report Visualization with Power-Bi:
-
-The aim is to create a comprehensive weekly credit card dashboard that provides real-time insights into key performance metrics and trends. This will enable stakeholders to monitor, analyze, and optimize credit card operations, supporting data-driven decisions and improving overall efficiency.
-
-* **Tools Used:** Excel, Power BI
-* **Project Link:** [Credit_Card_Financial_Report Visualization with Power-Bi](#)
+* **Tools Used:** Python , Pandas , Matplotlib , Numpy , Seasborn
+* **Project Link:** [Zomato Bangalore Restaurant EDA]([#](https://github.com/Kirubakaran05/Zomato-Bangalore-Restaurant-EDA))
 
 ---
 
-### Coffee Shop Sales Analysis Report:
+### Blinkit Sales Analysis PowerBi:
 
-This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores. I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
+An interactive Power BI dashboard analyzing sales performance, customer satisfaction, and inventory distribution for Blinkit. This project transforms raw e-commerce transaction data into actionable business insights using Power Query for ETL, DAX for calculated KPIs, and interactive visuals.
 
-* **Tools Used:** Excel
-* **Project Link:** [Coffee Shop Sales Analysis Report](#)
+* **Tools Used:** Excel, Power BI , DAX , Power Query
+* **Project Link:** [Blinkit Sales Analysis PowerBi](https://github.com/Kirubakaran05/Blinkit-Sales-Analysis-PowerBI)
 
 ---
 
-### Netflix Originals Data Analysis:
+### Amazon Prime Analysis PowerBi:
 
-This project focuses on identifying key characteristics that contribute to the success of Netflix Original movies. By examining attributes such as genre, runtime, IMDB score, and language, the goal is to understand the factors that influence the popularity and reception of these films.
+An interactive Power BI dashboard analyzing Amazon Prime Video's global catalog of movies and TV shows using Kaggle datasets. Features dynamic spatial mapping, content type distribution, temporal growth tracking, and genre/rating breakdowns.
 
-* **Tools Used:** Excel
-* **Project Link:** [Netflix Originals Data Analysis](#)
+* **Tools Used:** CSV , Power BI , DAX , Power Query
+* **Project Link:** [Amazon Prime Analysis PowerBi](https://github.com/Kirubakaran05/Amazon-Prime-Analysis-PowerBI)
+
+---
+
+### Zomato Restaurants Analysis PowerBi:
+
+An interactive Power BI dashboard analyzing global restaurant operations, consumer ratings, and service trends across 9,551+ establishments using Kaggle datasets. Features custom data modeling, geospatial mapping, and multi-dimensional filtering across cuisines, cities, and countries.
+
+* **Tools Used:** Excel, Power BI , DAX , Power Query
+* **Project Link:** [Zomato Restaurants Analysis PowerBi](https://github.com/Kirubakaran05/Zomato-Restuarant-Analysis-PowerBI)
 
 ---
 
