@@ -7,7 +7,7 @@
 
 ## 🔍 About Me
 
-Aspiring Data Analyst skilled in Excel, Power BI, Tableau, SQL, and Python with a strong foundation in transforming data into actionable insights. Proven academic and project experience in gathering, cleaning, analyzing, and visualizing data to support data-driven decisions. Known for strong analytical skills, clear communication, and a deep curiosity for uncovering insights that add value.
+Data Analyst with hands on experience applying advanced analytics using Excel, Power BI, Tableau, SQL, Alteryx and Python with a strong foundation in transforming data into actionable insights. Proven academic and project experience in gathering, cleaning, analyzing, and visualizing data to support data-driven decisions. Known for strong analytical skills, clear communication, and a deep curiosity for uncovering insights that add value.
 
 **🔧 Skills:**
 
@@ -23,12 +23,12 @@ Aspiring Data Analyst skilled in Excel, Power BI, Tableau, SQL, and Python with 
 
 ---
 
-### Bank Loan Analysis:
+### Bank Loan Analysis Python:
 
 Bank Loan Analysis using Python to explore loan performance, funding trends, borrower characteristics, and credit risk through EDA, KPI analysis, and data visualization.
 
 * **Tools Used:** Python , Pandas , Matplotlib , Numpy , Seasborn , Plotly
-* **Project Link:** [Bank Loan Analysis](https://github.com/Kirubakaran05/Bank-Loan-Analysis-Python)
+* **Project Link:** [Bank Loan Analysis Python](https://github.com/Kirubakaran05/Bank-Loan-Analysis-Python)
 
 ---
 
@@ -37,7 +37,7 @@ Bank Loan Analysis using Python to explore loan performance, funding trends, bor
 An exploratory data analysis (EDA) and visualization project on 50,000+ Zomato Bangalore restaurants in Python to uncover insights on ratings, pricing, locations, and cuisines.
 
 * **Tools Used:** Python , Pandas , Matplotlib , Numpy , Seasborn
-* **Project Link:** [Zomato Bangalore Restaurant EDA]([#](https://github.com/Kirubakaran05/Zomato-Bangalore-Restaurant-EDA))
+* **Project Link:** [Zomato Bangalore Restaurant EDA](https://github.com/Kirubakaran05/Zomato-Bangalore-Restaurant-EDA)
 
 ---
 
