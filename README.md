@@ -23,18 +23,18 @@ Aspiring Data Analyst skilled in Excel, Power BI, Tableau, SQL, and Python with 
 
 ---
 
-### Online Shopping Data Analysis:
+### Bank Loan Analysis:
 
-Analyzed an online shopping database in SQL to understand user spending patterns, identify top-selling products and categories, track trends in customer reviews and ratings, assess seller performance, and highlight products with low or zero sales to optimize inventory.
+Bank Loan Analysis using Python to explore loan performance, funding trends, borrower characteristics, and credit risk through EDA, KPI analysis, and data visualization.
 
-* **Tools Used:** MySQL
-* **Project Link:** [Online Shopping Data Analysis](#)
+* **Tools Used:** Python , Pandas , Matplotlib , Numpy , Seasborn , Plotly
+* **Project Link:** [Bank Loan Analysis](https://github.com/Kirubakaran05/Bank-Loan-Analysis-Python)
 
 ---
 
 ### Crime Against Women Analysis 2001-2014 (India):
 
-This project provides a comprehensive analysis of crimes against women in India between 2001 and 2014. Using SQL for data manipulation and Power BI for visualization, the project creates an interactive report to help identify key trends, state-wise crime distribution, and year-over-year crime growth.
+Bank Loan Analysis using Python to explore loan performance, funding trends, borrower characteristics, and credit risk through EDA, KPI analysis, and data visualization.
 
 * **Tools Used:** Excel, MySQL, Power BI
 * **Project Link:** [Crime Against Women Analysis 2001-2014 (India)](#)
